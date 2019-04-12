@@ -1,3 +1,3 @@
 # doctor-service
 
-A service to manage Doctors
+A service to manage Doctors.
